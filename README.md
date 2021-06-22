@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [Walkthrough](ToGoListGIF.gif)
+! [Walkthrough](ToDoListGIF.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
